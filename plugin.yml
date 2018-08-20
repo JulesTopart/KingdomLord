@@ -1,0 +1,5 @@
+name: KingdomLord
+main: genesy.plugin.kdl.Main
+version: 0.1
+author: Genesy0110
+commands:
